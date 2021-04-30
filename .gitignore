@@ -3,3 +3,5 @@ case_data.json
 ap.json
 cause_search_entry.txt
 motion_title.txt
+_pycache__/
+.idea
